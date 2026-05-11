@@ -1,4 +1,4 @@
-# Daemon
+# Daemons 
 
 You can run HHVM as a daemon (a background process instead of under the explicit control of a user), you just replace `-m server` with `-m daemon`.
 
